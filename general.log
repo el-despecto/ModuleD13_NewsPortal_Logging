@@ -1,0 +1,22 @@
+2022-04-27 17:26:23,748 INFO autoreload Watching for file changes with StatReloader
+2022-04-27 17:26:27,567 INFO basehttp "GET / HTTP/1.1" 302 0
+2022-04-27 17:26:27,634 INFO basehttp "GET /accounts/login/?next=/ HTTP/1.1" 200 1878
+2022-04-27 17:26:33,237 INFO basehttp "GET /accounts/login/ HTTP/1.1" 200 1809
+2022-04-27 17:26:34,994 INFO basehttp "GET /accounts/google/login/?process=login HTTP/1.1" 200 636
+2022-04-27 17:26:36,564 INFO basehttp "POST /accounts/google/login/?process=login HTTP/1.1" 302 0
+2022-04-27 17:26:38,007 INFO basehttp "GET /accounts/google/login/callback/?state=xldfcou5XnHE&code=4%2F0AX4XfWj3BfHouVoXSGWH19KSFILy9XsssPSs_w4hnAhWIg54aZBb-Y4Eh-jPbG8kjO2IdQ&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none HTTP/1.1" 302 0
+2022-04-27 17:26:38,034 INFO basehttp "GET / HTTP/1.1" 200 2213
+2022-04-27 17:26:52,140 INFO basehttp "GET /news/ HTTP/1.1" 200 8931
+2022-04-27 17:26:53,841 INFO basehttp "GET /news_edit/16/ HTTP/1.1" 200 3097
+2022-04-27 17:26:55,191 INFO basehttp "GET /news_edit/16/del_subscribe/?pk=5 HTTP/1.1" 302 0
+2022-04-27 17:26:55,215 INFO basehttp "GET /news/ HTTP/1.1" 200 8931
+2022-04-27 17:26:56,997 INFO basehttp "GET /news/ HTTP/1.1" 200 8931
+2022-04-27 17:26:59,344 INFO basehttp "GET /news/ HTTP/1.1" 200 8931
+2022-04-27 17:27:01,350 INFO basehttp "GET /news_edit/7/ HTTP/1.1" 200 3193
+2022-04-27 17:27:02,539 INFO basehttp "GET /news_edit/7/del_subscribe/?pk=2 HTTP/1.1" 302 0
+2022-04-27 17:27:02,563 INFO basehttp "GET /news/ HTTP/1.1" 200 8931
+2022-04-27 17:27:04,125 INFO basehttp "GET /news_edit/11/ HTTP/1.1" 200 3348
+2022-04-27 17:27:05,829 INFO basehttp "GET / HTTP/1.1" 200 2213
+2022-04-27 17:27:07,430 INFO basehttp "GET /sign/logout/ HTTP/1.1" 200 1901
+2022-04-27 17:27:32,084 INFO basehttp - Broken pipe from ('127.0.0.1', 50500)
+
